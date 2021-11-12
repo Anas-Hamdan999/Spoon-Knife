@@ -1,0 +1,31 @@
+.first {
+    background-color:grey;
+    max-width: 995px;
+    height: 300px;
+    font-size:500%;
+}
+
+.second {
+    float:right;
+}
+
+.three {
+    float: right;
+    margin-right: 2.1in;
+}
+
+.four {
+    padding-left: 5%;
+}
+
+.five {
+    background-color: gainsboro;
+}
+.six {
+    font-size: xx-large;
+}
+
+.zero {
+    font-size: SMALL;
+    letter-spacing: 0.05in;
+}
